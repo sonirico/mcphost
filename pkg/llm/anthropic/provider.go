@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"github.com/charmbracelet/log"
-	"github.com/mark3labs/mcphost/pkg/history"
-	"github.com/mark3labs/mcphost/pkg/llm"
+	"github.com/sonirico/mcphost/pkg/history"
+	"github.com/sonirico/mcphost/pkg/llm"
 )
 
 type Provider struct {
