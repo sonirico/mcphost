@@ -71,7 +71,7 @@ export GOOGLE_API_KEY='your-api-key'
 ## Installation 📦
 
 ```bash
-go install github.com/mark3labs/mcphost@latest
+go install github.com/sonirico/mcphost@latest
 ```
 
 ## Configuration ⚙️

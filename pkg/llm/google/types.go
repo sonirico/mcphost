@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/google/generative-ai-go/genai"
-	"github.com/mark3labs/mcphost/pkg/llm"
+	"github.com/sonirico/mcphost/pkg/llm"
 )
 
 type ToolCall struct {
