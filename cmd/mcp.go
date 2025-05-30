@@ -17,8 +17,8 @@ import (
 
 	mcpclient "github.com/mark3labs/mcp-go/client"
 	"github.com/mark3labs/mcp-go/mcp"
-	"github.com/mark3labs/mcphost/pkg/history"
-	"github.com/mark3labs/mcphost/pkg/llm"
+	"github.com/sonirico/mcphost/pkg/history"
+	"github.com/sonirico/mcphost/pkg/llm"
 )
 
 const (

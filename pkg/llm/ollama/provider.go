@@ -11,8 +11,8 @@ import (
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/ollama/ollama/api"
 
-	"github.com/mark3labs/mcphost/pkg/history"
-	"github.com/mark3labs/mcphost/pkg/llm"
+	"github.com/sonirico/mcphost/pkg/history"
+	"github.com/sonirico/mcphost/pkg/llm"
 )
 
 func boolPtr(b bool) *bool {
